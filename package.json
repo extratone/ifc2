@@ -18,7 +18,7 @@
     "dgram": "^1.0.1",
     "events": "^3.3.0",
     "net": "^1.0.2",
-    "stringview": "^2.1.1"
+    "stringview": "^3.0.0"
   },
   "author": "Arman Danesh",
   "license": "Apache 2",
